@@ -36,6 +36,8 @@ jQuery UI uses the [Grunt](http://gruntjs.com/) build system.
 To build jQuery UI, [set up your environment](CONTRIBUTING.md#environment-minimum-required) and then run the following commands:
 
 ```sh
+cd jquery-ui
+
 # Run the concat task to concatenate files
 grunt concat
 
